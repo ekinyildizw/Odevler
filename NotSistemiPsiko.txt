@@ -1,0 +1,21 @@
+1. Başla
+2. Not giriniz, not
+3. Eğer not>100 ise
+	4. Ekrana yazdır, Geçerli not giriniz!
+	5. Git, 21
+6. Değilse, not >= 85 ise
+	7. Ekrana yazdır, Notunuz: 5
+	8. Git, 21
+9. Değilse, not >= 70 ise
+	10. Ekrana yazdır, Notunuz: 4
+	11. Git, 21
+12. Değilse, not >= 60 ise
+	13. Ekrana yazdır, Notunuz: 3
+	14. Git, 21
+15. Değilse, not >= 45 ise
+	16. Ekrana yazdır, Notunuz: 2
+	17. Git, 21
+18. Değilse, not >= 0 ise
+	19. Ekrana yazdır, Notunuz: 1
+	20. Git, 21
+21. Dur
